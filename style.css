@@ -90,3 +90,9 @@ footer{
 h2:hover{
     color: hsl(47, 88%, 63%);
 }
+@media (min-width: 768px){
+    .main-container{
+        max-width: 385px;
+        max-height: 528px;
+    }
+}
