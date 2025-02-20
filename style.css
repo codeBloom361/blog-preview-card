@@ -10,7 +10,7 @@
     background-color: hsl(47, 88%, 63%);
 }
 
-.main-container,.author,.avatar,.info,.title,.date,h2{
+.main-container,.author,.avatar,.info,.title,.date,h2,p{
     background-color: white;
     font-family: figtree;
 }
